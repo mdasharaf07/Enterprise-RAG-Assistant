@@ -1,0 +1,10 @@
+Enterprise Employee Handbook
+
+Leave Policy
+Employees receive 20 days of paid annual leave per calendar year. Leave requests should be submitted through the HR portal at least 10 business days before the requested start date.
+
+Remote Work
+Employees may work remotely up to three days per week with manager approval. Teams handling regulated customer data must follow the secure access policy.
+
+Security
+All employees must use multi-factor authentication for enterprise systems. Company documents must not be shared through personal email accounts.

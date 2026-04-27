@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+exports/
+vectorstore/*/embedding_cache/
+vectorstore/*/faiss_index/index.faiss
+vectorstore/*/faiss_index/index.pkl
+*.log
+!logs/app.log

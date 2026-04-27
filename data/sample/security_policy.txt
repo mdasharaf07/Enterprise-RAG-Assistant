@@ -1,0 +1,10 @@
+Enterprise Security Policy
+
+Data Classification
+Documents are classified as Public, Internal, Confidential, or Restricted. Restricted documents require approved business justification and access logging.
+
+Incident Reporting
+Suspected security incidents must be reported to the Security Operations Center within one hour of discovery.
+
+Vendor Access
+Vendors may access internal systems only after contract approval, security review, and account provisioning by IT.
